@@ -1,0 +1,5 @@
+# Environment variables and other local configuration
+.venv
+
+# PyCharm settings
+.idea/
